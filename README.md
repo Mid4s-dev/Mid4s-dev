@@ -37,9 +37,9 @@ I'm focused on building secure and scalable apps that solve real-world problems 
 
 ## 📫 Reach Me
 
-- Email: [admin@signifide.group](mailto:admin@signifide.group)
+- Email: info@lugaya.me && lugayajoshua@gmail.com
 - Portfolio: [lugaya.me](https://lugaya.me)
-- LinkedIn: *[Add your LinkedIn link here]*
+- LinkedIn: www.linkedin.com/in/joshua-lugaya-mid4s-dev
 
 ---
 
