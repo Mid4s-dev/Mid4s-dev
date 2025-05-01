@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joshua Lugaya
+# 👋 Hi, I'm Joshua
 
 🚀 A passionate developer and cybersecurity enthusiast with a strong background in Java, Laravel, and cloud technologies.  
 I'm focused on building secure and scalable apps that solve real-world problems in Kenya 🇰🇪.
