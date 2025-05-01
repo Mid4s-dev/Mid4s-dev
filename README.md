@@ -12,7 +12,7 @@ I'm focused on building secure and scalable apps that solve real-world problems 
 - 🧰 Creating containerized environments using Docker for scalable Laravel apps
 - 🎓 Completed **Cyber Shujaa – Cloud & Network Security Track**
 - 🌐 Active member of **Ajira Digital Clubs**, collaborating on digital freelancing and tech upskilling
-- 💬 Blogging with **Jekyll + Chirpy** at [lugaya.me](https://lugaya.me)
+- 💬 Blogging with **Jekyll + Chirpy** at [lugaya.me](mid4s-dev.github.io)
 - 💡 Passionate about local innovation, open-source, and digital security
 
 ---
@@ -37,8 +37,8 @@ I'm focused on building secure and scalable apps that solve real-world problems 
 
 ## 📫 Reach Me
 
-- Email: info@lugaya.me && lugayajoshua@gmail.com
-- Portfolio: [lugaya.me](https://lugaya.me)
+- Email: lugayajoshua@gmail.com
+- Portfolio: [lugaya.me](https://mid4s-dev.github.io)
 - LinkedIn: www.linkedin.com/in/joshua-lugaya-mid4s-dev
 
 ---
